@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 🎓 Just cleared my 12th boards — and already deep into code
+- 🎓 Just cleared my 12th boards and already deep into code
 - 🌱 Currently learning **Full Stack Development**, **AI**, and **Cybersecurity**
 - 🔨 I like to learn by doing and exploring new ideas
 - 🧠 I enjoy understanding how systems work and improving step by step
