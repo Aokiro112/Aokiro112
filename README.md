@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## About Me
 
 I am a developer focused on building software that combines **frontend engineering**, **backend systems**, and **AI workflows**. I work across web technologies, local AI tooling, and product-focused development.
 
@@ -50,7 +50,7 @@ class Mayank:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -106,19 +106,19 @@ class Mayank:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> Featured Work
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Aokiro
+### Aokiro
 An AI coding architect built to understand and reason about large codebases using AST compression, semantic graphs, and repository-level context.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 Hikari
+### Hikari
 An AI-powered platform focused on learning, research, productivity, and personalized assistance.
 
 </td>
@@ -126,13 +126,13 @@ An AI-powered platform focused on learning, research, productivity, and personal
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Kairo
+### Kairo
 A modular full-stack application built with authentication, real-time communication, and persistent data workflows.
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 LocalCoder
+### LocalCoder
 A local-first AI coding environment designed around locally hosted models and developer workflows.
 
 </td>
@@ -141,7 +141,7 @@ A local-first AI coding environment designed around locally hosted models and de
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -160,7 +160,7 @@ A local-first AI coding environment designed around locally hosted models and de
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Current Focus
+## Current Focus
 
 <div align="center">
 
@@ -171,7 +171,7 @@ A local-first AI coding environment designed around locally hosted models and de
 
 </div>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Philosophy
+## Philosophy
 
 <div align="center">
 
