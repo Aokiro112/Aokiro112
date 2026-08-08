@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Mayank%20Tharwani&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20%7C%20Developer%20Tools&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d0d0d&height=220&section=header&text=Mayank%20Tharwani&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20%7C%20Developer%20Tools&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -145,16 +145,16 @@ A local-first AI coding environment designed around locally hosted models and de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aokiro112&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aokiro112&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aokiro112&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&ring_color=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aokiro112&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=CCCCCC" width="42%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aokiro112&theme=black-ice&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aokiro112&theme=dark&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aokiro112&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aokiro112&theme=react-dark&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&text_color=CCCCCC&hide_border=true" width="90%" />
 
 </div>
 
@@ -188,6 +188,6 @@ A local-first AI coding environment designed around locally hosted models and de
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
