@@ -145,11 +145,6 @@ A local-first AI coding environment designed around locally hosted models and de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aokiro112&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&ring_color=FFFFFF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aokiro112&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=CCCCCC" width="42%" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aokiro112&theme=dark&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" width="60%" />
 
 <br/><br/>
