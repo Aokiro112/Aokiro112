@@ -1,6 +1,6 @@
 # I build AI tools that run on your machine.
 
-I'm Mayank — a computer science student exploring local AI, agentic systems, and developer tools.
+I'm Aokiro a computer science student exploring local AI, agentic systems, and developer tools.
 
 I enjoy bringing separate technologies together to build useful software: local language models, automation, desktop applications, and systems that give developers more control over their tools.
 
